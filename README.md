@@ -1,70 +1,149 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LastCommit][commit-badge]][commit-url]
 
-## Available Scripts
+<!-- PROJECT LOGO -->
+<h3 align="center">React Technical Test</h3>
 
-In the project directory, you can run:
+  <p align="center">
+    <br />
+    ·
+    <a href="https://github.com/MaJaWh/tech-test">Report Bug</a>
+    ·
+</div>
 
-### `npm start`
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#Screenshots">Screenshots</a></li>
+        <li><a href="#testing-utilities-used">Testign Utilities Used</a></li>
+        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#packages">Packages</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#installation">Installation</a></li>
+        <li><a href="#testing">Testing</a></li>
+        <li><a href="#running-the-development-server">Running The Development Sever</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage-examples">Usage Examples</a></li>\
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<!-- ABOUT THE PROJECT -->
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## About The Project
+A property search engine similar to Right Move or Zoopla using all the skills we have learnt wil more emphasis on using React Router, Forms and 3rd Party Authentication.
 
-### `npm test`
+### Concepts
+ - Single Page Application(SPA)
+ - Client-Side Routing
+ - Controlled Inputs
+ - HTTP Requests
+ - API Interaction
+ - QAuth
+### Screenshots
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<div align="center">
+</div>
 
-### `npm run build`
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Testing Utilities Used
+The main testing Utility used was Jest which was installed with the project when it was initialized with create-react-app. The React Testing Library was also used.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Built With
 
-### `npm run eject`
+- [![React.js][react.js]][react-url]
+- [![Java-script][javascript-shield]][javascript-url]
+- [![Node.js][node-shield]][node-url]
+- [![CSS][CSS]][CSS-url]
+- [![HTML][HTML]][HTML-url]
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Packages
+1. Axios.
+2. PropTypes.
+3. Babel-Jest
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Getting Started
+Please follow the instructions below to get the best out of the app. 
+### Installation
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. Clone the repo into your chosen file
+   ```sh
+   git clone https://github.com/MaJaWh/tech-test
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
 
-## Learn More
+### Testing   
+- Testing
+   ```sh
+   npm test
+   ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+###  Running the Development Server  
+- npm
+   ```sh
+   npm start
+   ```    
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Usuage Examples
 
-### Code Splitting
+<div align="center">
+<img src="./src/images/Screenshot 2022-11-20 at 19.26.05.png" width="400px">
+</div>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Roadmap
 
-### Analyzing the Bundle Size
+## Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Your Name - [@twitter_handle](https://twitter.com/@mjamesw2010)
 
-### Making a Progressive Web App
+Project Link: [https://github.com/MaJaWh/tech-test](https://github.com/MaJaWh/surreal-estate)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Advanced Configuration
+<!-- ACKNOWLEDGMENTS -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<!-- MARKDOWN LINKS & IMAGES -->
 
-### Deployment
+[commit-badge]: https://img.shields.io/github/last-commit/MaJAWh/music-library
+[commit-url]: https://github.com/MaJaWh/music-library
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+[javascript-url]: https://www.javascript.com/
+[javascript-shield]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 
-### `npm run build` fails to minify
+[CSS]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[CSS-url]: https://www.w3.org/Style/CSS/Overview.en.html
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[HTML]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[HTML-url]: https://html.com/
+
+[node-shield]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+[node-url]: https://nodejs.org/en/
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/mjamesw/
+
+[product-screenshot]: images/screenshot.png
+
+[react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[react-url]: https://reactjs.org/
