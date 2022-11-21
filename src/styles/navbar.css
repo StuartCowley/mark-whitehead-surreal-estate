@@ -1,0 +1,47 @@
+.navbar__outer-div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 10px auto;
+    border-radius: 5px;
+    box-shadow: 10px 5px 5px 0 rgb(169, 169, 169);
+    width: 95%;
+    height: 50px;
+    background-image: linear-gradient(to left, rgba(255, 255, 255, 0.539), rgba(0, 0, 0, 0.593)), url('../icons/big-tiny-belly-XtnNrQYC7ts-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0px;
+}
+
+.navbar__logo-title {
+    color: rgb(211, 211, 211);
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 3%;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.navbar__title {
+    margin: auto;
+}
+
+.navbar-links {
+    margin-left: 8%;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0;
+}
+.navbar-links__item {
+    color: rgb(14, 14, 14);
+    font-weight: bold;
+    padding: 7px;
+    margin-left: 10px;
+
+}
