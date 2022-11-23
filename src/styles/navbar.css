@@ -4,7 +4,7 @@
     align-items: center;
     margin: 10px auto;
     border-radius: 5px;
-    box-shadow: 10px 5px 5px 0 rgb(169, 169, 169);
+    box-shadow: 10px 5px 5px 0 rgb(196, 196, 196);
     width: 95%;
     height: 50px;
     background-image: linear-gradient(to left, rgba(255, 255, 255, 0.539), rgba(0, 0, 0, 0.593)), url('../icons/big-tiny-belly-XtnNrQYC7ts-unsplash.jpg');
@@ -31,7 +31,7 @@
 }
 
 .navbar-links {
-    margin-left: 8%;
+    margin-left: 5%;
     list-style: none;
     display: flex;
     flex-direction: row;
@@ -39,9 +39,10 @@
     padding: 0;
 }
 .navbar-links__item {
+    text-decoration: none;
     color: rgb(14, 14, 14);
     font-weight: bold;
     padding: 7px;
-    margin-left: 10px;
+    margin-left: 5px;
 
 }
