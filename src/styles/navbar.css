@@ -4,13 +4,12 @@
     align-items: center;
     margin: 10px auto;
     border-radius: 5px;
-    box-shadow: 10px 5px 5px 0 rgb(196, 196, 196);
     width: 95%;
     height: 50px;
     background-image: linear-gradient(to left, rgba(255, 255, 255, 0.539), rgba(0, 0, 0, 0.593)), url('../icons/big-tiny-belly-XtnNrQYC7ts-unsplash.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: 0px;
+    background-position: 0px 0px;
 }
 
 .navbar__logo-title {
